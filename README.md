@@ -1,5 +1,6 @@
 ### MY DOTFILES
 
+I use [rcm](https://github.com/thoughtbot/rcm) for this repo
 
 ## Installation
 
