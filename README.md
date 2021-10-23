@@ -22,18 +22,20 @@ MY DOTFILES
 
 ![colortest](https://user-images.githubusercontent.com/90133205/138557533-b0bbabdf-9614-4d10-9d7c-b528c2304e89.png)
 
-# color
+# color approx
 
-| Code  | Color             | Hex                                                                |
-| ------| ----------------- | ------------------------------------------------------------------ |
-| 40m   | black             | #f8f8f8                                                            |
-| 41    |                      | #                                                               |
-| 42    |                      | #                                                               |
-| 43    |                      | #                                                               |
-| 44    |                      | #                                                               |
-| 45    |                      | #                                                               |
-| 46    |                      | #                                                               |
-| 47    |                      | #                                                               |
+i find the color name using [this](https://www.color-name.com/) website
+
+| Code  | Color                  | Hex                                                                |
+| ----- | ---------------------- | ------------------------------------------------------------------ |
+| 40m   | Black                  | #000000                                                            |
+| 41m   | Tickle Me Pink         | #F381B0                                                            |
+| 42m   | Medium Sky Blue        | #8ae9f3                                                            |
+| 43m   | Jordy Blue             | #81b0f3                                                            |
+| 44m   | Topaz                  | #f3c481                                                            |
+| 45m   | Yellow-Green (Crayola) | #b0f381                                                            |
+| 46m   | Bright Lavender        | #c481f3                                                            |
+| 47m   | Argent                 | #bfbfbf                                                            |
 
 
 
