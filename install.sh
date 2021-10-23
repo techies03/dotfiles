@@ -65,6 +65,8 @@ handle_file_ln() {
 }
 handle_file_ln "/home/muqsit/.dotfiles/README.md" "/home/muqsit/.README.md"
 handle_file_ln "/home/muqsit/.dotfiles/alacritty.yml" "/home/muqsit/.alacritty.yml"
+handle_file_ln "/home/muqsit/.dotfiles/config/autostart/alt+f2.desktop" "/home/muqsit/.config/autostart/alt+f2.desktop"
+handle_file_ln "/home/muqsit/.dotfiles/config/neofetch/config.conf" "/home/muqsit/.config/neofetch/config.conf"
 handle_file_ln "/home/muqsit/.dotfiles/gitconfig" "/home/muqsit/.gitconfig"
 handle_file_ln "/home/muqsit/.dotfiles/install.sh" "/home/muqsit/.install.sh"
 handle_file_ln "/home/muqsit/.dotfiles/zshrc" "/home/muqsit/.zshrc"
