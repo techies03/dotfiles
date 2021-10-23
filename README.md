@@ -2,10 +2,6 @@ MY DOTFILES
 =============================
 - I use [rcm](https://github.com/thoughtbot/rcm) for this repo
 - feel free to use any of these
-
-- [Installation](##installation)
-- [Dependencies](##dependencies)
-
 ----------------------------------
 
 
