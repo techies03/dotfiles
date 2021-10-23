@@ -18,4 +18,4 @@ MY DOTFILES
 ## Dependencies
 
 - [alacritty](https://github.com/alacritty/alacritty)
-- [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH) + ohmyzsh (IMO)
+- [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH) + [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh/) (IMO)
