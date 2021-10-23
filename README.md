@@ -4,6 +4,7 @@ MY DOTFILES
 - feel free to use any of these
 
 - [Installation](##Installation)
+- [Dependencies](##Dependencies)
 
 ----------------------------------
 
@@ -14,4 +15,7 @@ MY DOTFILES
   git clone https://github.com/techies03/dotfiles && cd dotfiles && sh install.sh
 ```
     
+## Dependencies
 
+-[alacritty](https://github.com/alacritty/alacritty)
+-[zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH) + ohmyzsh (IMO)
