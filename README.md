@@ -4,7 +4,7 @@ MY DOTFILES
 - feel free to use any of these
 
 - [Installation](##Installation)
-- [Dependencies](##Dependencies)
+- [Dependencies](##dependencies)
 
 ----------------------------------
 
@@ -23,55 +23,3 @@ MY DOTFILES
 
 
 
-
-
-
-hgfhfghfghfghfgh
-
-
-
-
-
-
-
-fghfghfghfghfgh
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-fghfshfhfghfghfgh
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-shhfghfghfgshfghfgh
