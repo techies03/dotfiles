@@ -18,5 +18,8 @@ MY DOTFILES
 - [colortest](https://github.com/pablopunk/colortest)
 
 
+## alacritty color scheme
 
 
+
+![App Screenshot](file:///home/muqsit/Downloads/colortest.png)
