@@ -63,7 +63,8 @@ handle_file_ln() {
   $MKDIR -p "$($DIRNAME "$2")"
   $LN -sf "$1" "$2"
 }
+handle_file_ln "/home/muqsit/.dotfiles/README.md" "/home/muqsit/.README.md"
 handle_file_ln "/home/muqsit/.dotfiles/alacritty.yml" "/home/muqsit/.alacritty.yml"
-handle_file_ln "/home/muqsit/.dotfiles/config/alacritty/alacritty.yml" "/home/muqsit/.config/alacritty/alacritty.yml"
+handle_file_ln "/home/muqsit/.dotfiles/gitconfig" "/home/muqsit/.gitconfig"
 handle_file_ln "/home/muqsit/.dotfiles/install.sh" "/home/muqsit/.install.sh"
 handle_file_ln "/home/muqsit/.dotfiles/zshrc" "/home/muqsit/.zshrc"

@@ -120,4 +120,3 @@ fpath+=${ZDOTDIR:-~}/.zsh_functions
 #wal -i ~/Downloads/pop.png --backend colorz -q
 #wal --theme base16-google -q
 neofetch
-#heloooooooooo
