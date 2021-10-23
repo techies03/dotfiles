@@ -9,3 +9,55 @@
   git clone https://github.com/techies03/dotfiles && cd dotfiles && sh install.sh
 ```
     
+
+
+#Real Cool Heading
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#real-cool-heading
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Go to Real Cool Heading section](#real-cool-heading)
+
