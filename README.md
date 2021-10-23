@@ -26,7 +26,7 @@ MY DOTFILES
 
 | Code  | Color             | Hex                                                                |
 | ------| ----------------- | ------------------------------------------------------------------ |
-| 40m | black | #f8f8f8 |
+| 40m   | black             | #f8f8f8                                                            |
 | Example Color | #00b48a |
 | Example Color | #00d1a0 |
 
