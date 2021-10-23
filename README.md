@@ -22,7 +22,7 @@ MY DOTFILES
 
 ![colortest](https://user-images.githubusercontent.com/90133205/138557533-b0bbabdf-9614-4d10-9d7c-b528c2304e89.png)
 
-# Color Reference
+### Color Reference
 
 i find the color name using [this](https://www.color-name.com/) website
 
