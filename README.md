@@ -20,6 +20,3 @@ MY DOTFILES
 
 ## alacritty color scheme
 
-
-
-![App Screenshot](file:///home/muqsit/Downloads/colortest.png)
